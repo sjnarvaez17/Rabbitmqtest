@@ -1,4 +1,4 @@
-#Primer Examen Parcial.
+# Primer Examen Parcial.
 
 Implemente una arquitectura que contenga:
  
